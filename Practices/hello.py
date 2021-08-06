@@ -1,0 +1,6 @@
+print('Hello world!')
+my_name = input('what is your name? ')
+print('Its good to meet you {}'.format(my_name))
+print('The length of your name is: {}'.format(len(my_name)))
+my_age = input('How old are you? ')
+print('You will be {} in one year. '.format(int(my_age)+1))
